@@ -1,0 +1,36 @@
+# Keil MDK build output
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.lnp
+*.dep
+*.iex
+*.htm
+*.build_log.htm
+*.uvguix.*
+*.scvd
+
+# Keil project backups
+*.uvoptx.bak
+*_uvoptx.bak
+*_uvprojx.bak
+JLinkLog.txt
+JLinkSettings.ini
+
+# Debugger / trace
+*.ini
+*.log
+EventRecorderStub.scvd
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
